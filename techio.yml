@@ -1,4 +1,4 @@
-title: Simple C++ Template
+title: Entrada y salida de datos en aplicaciones de consola en C++
 plan:
-- title: C++ Snippet
+- title: Entrada y salida estándar en C++
   statement: statement.md
