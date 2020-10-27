@@ -52,7 +52,7 @@ int main() {
 
 Para poder capturar datos ingresados por teclado y almacenarlos en variables C++ ofrece la función `cin` junto con el operador `>>`, y la función`getline`. La función `cin` permite capturar cualquier tipo de datos, con excepción de cadenas de texto que contengan espacios. Mientras que `getline` si permite la captura de textos con espacios.
 
-Ejemplo:
+Ejemplo (copie el código en su editor de preferencia y ejecutelo):
 
 ```C++
 #include <iostream>
